@@ -1,4 +1,5 @@
-# Diabetes Analysis with Machine Learning
+# Classification of Diabetes Student using Machine Learning
+
 Diabetes analysis with machine learning involves using a dataset of patients with diabetes and building models that can predict whether a patient has diabetes or not based on certain features. The dataset usually contains features such as age, BMI, blood pressure, insulin levels, and glucose levels.
 
 # README
